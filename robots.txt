@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://kon3155.github.io/sitemap.xml
