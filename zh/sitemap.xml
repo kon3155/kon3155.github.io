@@ -4,17 +4,65 @@
   
   
   <url>
-    <loc></loc></url>
+    <loc></loc><xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href=""
+    /><xhtml:link
+      rel="alternate"
+      hreflang="zh"
+      href=""
+    /></url>
   <url>
-    <loc></loc></url>
+    <loc></loc><xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href=""
+    /><xhtml:link
+      rel="alternate"
+      hreflang="zh"
+      href=""
+    /></url>
   <url>
-    <loc></loc></url>
+    <loc></loc><xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href=""
+    /><xhtml:link
+      rel="alternate"
+      hreflang="zh"
+      href=""
+    /></url>
   <url>
-    <loc></loc></url>
+    <loc></loc><xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href=""
+    /><xhtml:link
+      rel="alternate"
+      hreflang="zh"
+      href=""
+    /></url>
   <url>
-    <loc></loc></url>
+    <loc></loc><xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href=""
+    /><xhtml:link
+      rel="alternate"
+      hreflang="zh"
+      href=""
+    /></url>
   <url>
-    <loc></loc></url>
+    <loc></loc><xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href=""
+    /><xhtml:link
+      rel="alternate"
+      hreflang="zh"
+      href=""
+    /></url>
   <url>
     <loc>https://kon3155.github.io/talk/example-talk/</loc><lastmod>2030-06-01T13:00:00+00:00</lastmod><xhtml:link
       rel="alternate"
@@ -256,8 +304,72 @@
       href="https://kon3155.github.io/admin/"
     /></url>
   <url>
-    <loc></loc></url>
+    <loc></loc><xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href=""
+    /><xhtml:link
+      rel="alternate"
+      hreflang="zh"
+      href=""
+    /></url>
   <url>
-    <loc></loc></url>
+    <loc></loc><xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href=""
+    /><xhtml:link
+      rel="alternate"
+      hreflang="zh"
+      href=""
+    /></url>
   <url>
-    <loc></loc></url></urlset>
+    <loc></loc><xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href=""
+    /><xhtml:link
+      rel="alternate"
+      hreflang="zh"
+      href=""
+    /></url>
+  <url>
+    <loc></loc><xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href=""
+    /><xhtml:link
+      rel="alternate"
+      hreflang="zh"
+      href=""
+    /></url>
+  <url>
+    <loc></loc><xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href=""
+    /><xhtml:link
+      rel="alternate"
+      hreflang="zh"
+      href=""
+    /></url>
+  <url>
+    <loc></loc><xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href=""
+    /><xhtml:link
+      rel="alternate"
+      hreflang="zh"
+      href=""
+    /></url>
+  <url>
+    <loc></loc><xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href=""
+    /><xhtml:link
+      rel="alternate"
+      hreflang="zh"
+      href=""
+    /></url></urlset>
